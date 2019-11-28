@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Demo app that uses a simple calculator to demonstrate the principles of Redux",
   "main": "/src/app.js",
-  "repository": "https://github.com/TanveerSehgal/simple-redux.git",
-  "author": "Tanveer Sehgal <tanveersehgal@gmail.com>",
+  "repository": "https://github.com/tulikumari/redux.git",
+  "author": "Tuli Kumari <info.tulikumari@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open"
